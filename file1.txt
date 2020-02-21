@@ -1,1 +1,5 @@
+<<<<<<< Updated upstream
 root file1 midified again
+=======
+root file1 1
+>>>>>>> Stashed changes

@@ -1,1 +1,5 @@
+<<<<<<< Updated upstream
 folder1 file1 midified again
+=======
+folder1 file1 1
+>>>>>>> Stashed changes
